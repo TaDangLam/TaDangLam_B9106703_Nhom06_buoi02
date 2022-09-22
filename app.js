@@ -1,8 +1,12 @@
 const express = require('express');
 const cors = require('express');
+const morgan = require('morgan');
 const app = express("cors");
 const ApiError = require("./app/api-error");
 const contactsRouter = require("./app/routes/contact.routes");
+
+//morgan
+app.use(morgan('combined'));
 
 app.use(cors());
 app.use(express.json());

@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TaDangLam/LamB1906703.git"
+    "url": "git+https://github.com/TaDangLam/TaDangLamB1906703.git"
   },
   "author": "DangLam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TaDangLam/LamB1906703/issues"
+    "url": "https://github.com/TaDangLam/TaDangLamB1906703.git/issues"
   },
-  "homepage": "https://github.com/TaDangLam/LamB1906703#readme",
+  "homepage": "https://github.com/TaDangLam/TaDangLamB1906703.git#readme",
   "devDependencies": {
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20"
